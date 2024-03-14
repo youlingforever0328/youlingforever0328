@@ -29,4 +29,4 @@
 <h4>🤗百度飞桨深度学习平台开发入门课程视频-郑时涛
 </h4>
 
-* **[百度飞桨深度学习平台开发入门"](https://class.guyuehome.com/p/t_pc/goods_pc_detail/goods_detail/p_60375614e4b0478a0459c9a4?)**.
+* **[百度飞桨深度学习平台开发入门](https://class.guyuehome.com/p/t_pc/goods_pc_detail/goods_detail/p_60375614e4b0478a0459c9a4?)**.
