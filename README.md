@@ -25,3 +25,8 @@
 * **[用paddle实现轻量化卷积神经网络SqueezeNet](https://aistudio.baidu.com/projectdetail/600555)**.
 
 * **[基于PaddleHub开发一款学生口罩佩戴情况检测登记系统](https://aistudio.baidu.com/projectdetail/598805)**.
+
+<h4>🤗百度飞桨深度学习平台开发入门课程视频-郑时涛
+</h4>
+
+* **[百度飞桨深度学习平台开发入门"](https://class.guyuehome.com/p/t_pc/goods_pc_detail/goods_detail/p_60375614e4b0478a0459c9a4?)**.
