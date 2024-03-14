@@ -7,7 +7,7 @@
 <h3 align="center">
     <p>Community Personal Homepage and PaddlePaddle Developers Experts (PPDE)</p>
 </h3>
-<img alt="Build" src="honor.png">
+<img alt="Build" src="honor.png" style="border-radius: 10px;">
 
 <h4>🤗Please log in to AiStudio to access the homepage
 </h4>
