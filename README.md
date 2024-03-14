@@ -9,10 +9,10 @@
 </h3>
 <img alt="Build" src="honor.png">
 
-<h4>🤗Please log in to 
-<a href="[超链接地址](https://aistudio.baidu.com/)">AiStudio</a>
-to access the homepage
+<h4>🤗Please log in to AiStudio to access the homepage
 </h4>
+
+* **[AiStudio-Home](https://aistudio.baidu.com)**.
 
 
 <h4>🤗Boutique Projects of PaddlePaddle Developers Experts (PPDE)
