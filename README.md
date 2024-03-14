@@ -12,7 +12,7 @@
 <h4>🤗Please log in to AiStudio to access the homepage
 </h4>
 
-* **[AiStudio-Home](https://aistudio.baidu.com)**.
+* **[PPDE-Home](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E9%83%91%E6%97%B6%E6%B6%9B)**.
 
 
 <h4>🤗Boutique Projects of PaddlePaddle Developers Experts (PPDE)
