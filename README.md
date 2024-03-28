@@ -5,7 +5,7 @@
     <img alt="Documentation" src="https://img.shields.io/badge/AiStudio-2.0-green">
 </p>
 <h1 align="center">
-    <p>百度飞桨社区个人主页 (PPDE)</p>
+    <p>百度飞桨PaddlePaddle社区个人主页 (PPDE)</p>
 </h1>
 <img alt="Build" src="photo.png">
 
