@@ -4,9 +4,9 @@
     <img alt="Documentation" src="https://img.shields.io/badge/Python-3.10-blue">
     <img alt="Documentation" src="https://img.shields.io/badge/AiStudio-2.0-green">
 </p>
-<h2 align="center">
+<h1 align="center">
     <p>Community Personal Homepage and PaddlePaddle Developers Experts (PPDE)</p>
-</h2>
+</h1>
 <img alt="Build" src="photo.png">
 
 <h4>🤗Please log in to AiStudio to access the homepage
